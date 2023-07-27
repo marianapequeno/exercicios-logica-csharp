@@ -1,0 +1,15 @@
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\3-Estrutura_Repeticao_While\Solucao\02_Coordenadas\bin\Debug\net6.0\02_Coordenadas.exe
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\3-Estrutura_Repeticao_While\Solucao\02_Coordenadas\bin\Debug\net6.0\02_Coordenadas.deps.json
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\3-Estrutura_Repeticao_While\Solucao\02_Coordenadas\bin\Debug\net6.0\02_Coordenadas.runtimeconfig.json
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\3-Estrutura_Repeticao_While\Solucao\02_Coordenadas\bin\Debug\net6.0\02_Coordenadas.dll
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\3-Estrutura_Repeticao_While\Solucao\02_Coordenadas\bin\Debug\net6.0\02_Coordenadas.pdb
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\3-Estrutura_Repeticao_While\Solucao\02_Coordenadas\obj\Debug\net6.0\02_Coordenadas.csproj.AssemblyReference.cache
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\3-Estrutura_Repeticao_While\Solucao\02_Coordenadas\obj\Debug\net6.0\02_Coordenadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\3-Estrutura_Repeticao_While\Solucao\02_Coordenadas\obj\Debug\net6.0\02_Coordenadas.AssemblyInfoInputs.cache
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\3-Estrutura_Repeticao_While\Solucao\02_Coordenadas\obj\Debug\net6.0\02_Coordenadas.AssemblyInfo.cs
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\3-Estrutura_Repeticao_While\Solucao\02_Coordenadas\obj\Debug\net6.0\02_Coordenadas.csproj.CoreCompileInputs.cache
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\3-Estrutura_Repeticao_While\Solucao\02_Coordenadas\obj\Debug\net6.0\02_Coordenadas.dll
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\3-Estrutura_Repeticao_While\Solucao\02_Coordenadas\obj\Debug\net6.0\refint\02_Coordenadas.dll
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\3-Estrutura_Repeticao_While\Solucao\02_Coordenadas\obj\Debug\net6.0\02_Coordenadas.pdb
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\3-Estrutura_Repeticao_While\Solucao\02_Coordenadas\obj\Debug\net6.0\02_Coordenadas.genruntimeconfig.cache
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\3-Estrutura_Repeticao_While\Solucao\02_Coordenadas\obj\Debug\net6.0\ref\02_Coordenadas.dll
