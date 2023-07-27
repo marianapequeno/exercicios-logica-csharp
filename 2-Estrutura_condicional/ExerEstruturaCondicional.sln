@@ -5,15 +5,19 @@ VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01_ExercicioNegativoOuPositivo", "01_ExercicioNegativoOuPositivo\01_ExercicioNegativoOuPositivo.csproj", "{B983D878-F942-4D94-89C4-9BE0CF835B5E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_ExercicioParOuImpar", "02_ExercicioParOuImpar\02_ExercicioParOuImpar.csproj", "{1408AED4-F1CF-485C-BC9C-745BF22094EE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02_ExercicioParOuImpar", "02_ExercicioParOuImpar\02_ExercicioParOuImpar.csproj", "{1408AED4-F1CF-485C-BC9C-745BF22094EE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_ExercicioMultiplosOuNao", "03_ExercicioMultiplosOuNao\03_ExercicioMultiplosOuNao.csproj", "{0732AC01-7169-47D6-A055-C1898EFA8242}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03_ExercicioMultiplosOuNao", "03_ExercicioMultiplosOuNao\03_ExercicioMultiplosOuNao.csproj", "{0732AC01-7169-47D6-A055-C1898EFA8242}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_ExercicioDuracaoJogo", "04_ExercicioDuracaoJogo\04_ExercicioDuracaoJogo.csproj", "{35B3B60D-DB7B-4818-9D62-40976DE346C2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04_ExercicioDuracaoJogo", "04_ExercicioDuracaoJogo\04_ExercicioDuracaoJogo.csproj", "{35B3B60D-DB7B-4818-9D62-40976DE346C2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_ExercicioLancheTotalAPagar", "05_ExercicioLancheTotalAPagar\05_ExercicioLancheTotalAPagar.csproj", "{4DE6D377-8221-48FE-B353-2F227340A083}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05_ExercicioLancheTotalAPagar", "05_ExercicioLancheTotalAPagar\05_ExercicioLancheTotalAPagar.csproj", "{4DE6D377-8221-48FE-B353-2F227340A083}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_ExercicioIntervaloNumerico", "06_ExercicioIntervaloNumerico\06_ExercicioIntervaloNumerico.csproj", "{22C11063-5777-48C8-922E-F19AE7386FD5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06_ExercicioIntervaloNumerico", "06_ExercicioIntervaloNumerico\06_ExercicioIntervaloNumerico.csproj", "{22C11063-5777-48C8-922E-F19AE7386FD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_ExercicioCoordenadas", "07_ExercicioCoordenadas\07_ExercicioCoordenadas.csproj", "{9CC0611D-1BBA-44B1-865F-6BD174B428F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_ExercicioImpostoDeRenda", "08_ExercicioImpostoDeRenda\08_ExercicioImpostoDeRenda.csproj", "{E73EEE3E-8143-4AEF-A4B6-BB55E469E8F2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +49,14 @@ Global
 		{22C11063-5777-48C8-922E-F19AE7386FD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{22C11063-5777-48C8-922E-F19AE7386FD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{22C11063-5777-48C8-922E-F19AE7386FD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CC0611D-1BBA-44B1-865F-6BD174B428F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CC0611D-1BBA-44B1-865F-6BD174B428F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CC0611D-1BBA-44B1-865F-6BD174B428F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CC0611D-1BBA-44B1-865F-6BD174B428F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E73EEE3E-8143-4AEF-A4B6-BB55E469E8F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E73EEE3E-8143-4AEF-A4B6-BB55E469E8F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E73EEE3E-8143-4AEF-A4B6-BB55E469E8F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E73EEE3E-8143-4AEF-A4B6-BB55E469E8F2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

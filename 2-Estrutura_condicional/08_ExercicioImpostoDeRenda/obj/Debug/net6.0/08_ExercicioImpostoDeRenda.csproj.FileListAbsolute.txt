@@ -1,0 +1,15 @@
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\2-Estrutura_condicional\08_ExercicioImpostoDeRenda\bin\Debug\net6.0\08_ExercicioImpostoDeRenda.exe
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\2-Estrutura_condicional\08_ExercicioImpostoDeRenda\bin\Debug\net6.0\08_ExercicioImpostoDeRenda.deps.json
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\2-Estrutura_condicional\08_ExercicioImpostoDeRenda\bin\Debug\net6.0\08_ExercicioImpostoDeRenda.runtimeconfig.json
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\2-Estrutura_condicional\08_ExercicioImpostoDeRenda\bin\Debug\net6.0\08_ExercicioImpostoDeRenda.dll
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\2-Estrutura_condicional\08_ExercicioImpostoDeRenda\bin\Debug\net6.0\08_ExercicioImpostoDeRenda.pdb
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\2-Estrutura_condicional\08_ExercicioImpostoDeRenda\obj\Debug\net6.0\08_ExercicioImpostoDeRenda.csproj.AssemblyReference.cache
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\2-Estrutura_condicional\08_ExercicioImpostoDeRenda\obj\Debug\net6.0\08_ExercicioImpostoDeRenda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\2-Estrutura_condicional\08_ExercicioImpostoDeRenda\obj\Debug\net6.0\08_ExercicioImpostoDeRenda.AssemblyInfoInputs.cache
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\2-Estrutura_condicional\08_ExercicioImpostoDeRenda\obj\Debug\net6.0\08_ExercicioImpostoDeRenda.AssemblyInfo.cs
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\2-Estrutura_condicional\08_ExercicioImpostoDeRenda\obj\Debug\net6.0\08_ExercicioImpostoDeRenda.csproj.CoreCompileInputs.cache
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\2-Estrutura_condicional\08_ExercicioImpostoDeRenda\obj\Debug\net6.0\08_ExercicioImpostoDeRenda.dll
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\2-Estrutura_condicional\08_ExercicioImpostoDeRenda\obj\Debug\net6.0\refint\08_ExercicioImpostoDeRenda.dll
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\2-Estrutura_condicional\08_ExercicioImpostoDeRenda\obj\Debug\net6.0\08_ExercicioImpostoDeRenda.pdb
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\2-Estrutura_condicional\08_ExercicioImpostoDeRenda\obj\Debug\net6.0\08_ExercicioImpostoDeRenda.genruntimeconfig.cache
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\2-Estrutura_condicional\08_ExercicioImpostoDeRenda\obj\Debug\net6.0\ref\08_ExercicioImpostoDeRenda.dll
