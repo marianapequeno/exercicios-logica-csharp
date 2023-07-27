@@ -1,0 +1,15 @@
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\4-Estrutura_Repeticao_For\Solucao\03_CasosDeTesteMedia\bin\Debug\net6.0\03_CasosDeTesteMedia.exe
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\4-Estrutura_Repeticao_For\Solucao\03_CasosDeTesteMedia\bin\Debug\net6.0\03_CasosDeTesteMedia.deps.json
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\4-Estrutura_Repeticao_For\Solucao\03_CasosDeTesteMedia\bin\Debug\net6.0\03_CasosDeTesteMedia.runtimeconfig.json
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\4-Estrutura_Repeticao_For\Solucao\03_CasosDeTesteMedia\bin\Debug\net6.0\03_CasosDeTesteMedia.dll
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\4-Estrutura_Repeticao_For\Solucao\03_CasosDeTesteMedia\bin\Debug\net6.0\03_CasosDeTesteMedia.pdb
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\4-Estrutura_Repeticao_For\Solucao\03_CasosDeTesteMedia\obj\Debug\net6.0\03_CasosDeTesteMedia.csproj.AssemblyReference.cache
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\4-Estrutura_Repeticao_For\Solucao\03_CasosDeTesteMedia\obj\Debug\net6.0\03_CasosDeTesteMedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\4-Estrutura_Repeticao_For\Solucao\03_CasosDeTesteMedia\obj\Debug\net6.0\03_CasosDeTesteMedia.AssemblyInfoInputs.cache
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\4-Estrutura_Repeticao_For\Solucao\03_CasosDeTesteMedia\obj\Debug\net6.0\03_CasosDeTesteMedia.AssemblyInfo.cs
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\4-Estrutura_Repeticao_For\Solucao\03_CasosDeTesteMedia\obj\Debug\net6.0\03_CasosDeTesteMedia.csproj.CoreCompileInputs.cache
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\4-Estrutura_Repeticao_For\Solucao\03_CasosDeTesteMedia\obj\Debug\net6.0\03_CasosDeTesteMedia.dll
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\4-Estrutura_Repeticao_For\Solucao\03_CasosDeTesteMedia\obj\Debug\net6.0\refint\03_CasosDeTesteMedia.dll
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\4-Estrutura_Repeticao_For\Solucao\03_CasosDeTesteMedia\obj\Debug\net6.0\03_CasosDeTesteMedia.pdb
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\4-Estrutura_Repeticao_For\Solucao\03_CasosDeTesteMedia\obj\Debug\net6.0\03_CasosDeTesteMedia.genruntimeconfig.cache
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\4-Estrutura_Repeticao_For\Solucao\03_CasosDeTesteMedia\obj\Debug\net6.0\ref\03_CasosDeTesteMedia.dll
