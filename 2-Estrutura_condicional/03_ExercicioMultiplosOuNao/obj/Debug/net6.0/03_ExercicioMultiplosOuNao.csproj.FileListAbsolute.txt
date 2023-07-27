@@ -1,0 +1,15 @@
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\2-Estrutura_condicional\03_ExercicioMultiplosOuNao\bin\Debug\net6.0\03_ExercicioMultiplosOuNao.exe
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\2-Estrutura_condicional\03_ExercicioMultiplosOuNao\bin\Debug\net6.0\03_ExercicioMultiplosOuNao.deps.json
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\2-Estrutura_condicional\03_ExercicioMultiplosOuNao\bin\Debug\net6.0\03_ExercicioMultiplosOuNao.runtimeconfig.json
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\2-Estrutura_condicional\03_ExercicioMultiplosOuNao\bin\Debug\net6.0\03_ExercicioMultiplosOuNao.dll
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\2-Estrutura_condicional\03_ExercicioMultiplosOuNao\bin\Debug\net6.0\03_ExercicioMultiplosOuNao.pdb
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\2-Estrutura_condicional\03_ExercicioMultiplosOuNao\obj\Debug\net6.0\03_ExercicioMultiplosOuNao.csproj.AssemblyReference.cache
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\2-Estrutura_condicional\03_ExercicioMultiplosOuNao\obj\Debug\net6.0\03_ExercicioMultiplosOuNao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\2-Estrutura_condicional\03_ExercicioMultiplosOuNao\obj\Debug\net6.0\03_ExercicioMultiplosOuNao.AssemblyInfoInputs.cache
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\2-Estrutura_condicional\03_ExercicioMultiplosOuNao\obj\Debug\net6.0\03_ExercicioMultiplosOuNao.AssemblyInfo.cs
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\2-Estrutura_condicional\03_ExercicioMultiplosOuNao\obj\Debug\net6.0\03_ExercicioMultiplosOuNao.csproj.CoreCompileInputs.cache
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\2-Estrutura_condicional\03_ExercicioMultiplosOuNao\obj\Debug\net6.0\03_ExercicioMultiplosOuNao.dll
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\2-Estrutura_condicional\03_ExercicioMultiplosOuNao\obj\Debug\net6.0\refint\03_ExercicioMultiplosOuNao.dll
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\2-Estrutura_condicional\03_ExercicioMultiplosOuNao\obj\Debug\net6.0\03_ExercicioMultiplosOuNao.pdb
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\2-Estrutura_condicional\03_ExercicioMultiplosOuNao\obj\Debug\net6.0\03_ExercicioMultiplosOuNao.genruntimeconfig.cache
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\2-Estrutura_condicional\03_ExercicioMultiplosOuNao\obj\Debug\net6.0\ref\03_ExercicioMultiplosOuNao.dll

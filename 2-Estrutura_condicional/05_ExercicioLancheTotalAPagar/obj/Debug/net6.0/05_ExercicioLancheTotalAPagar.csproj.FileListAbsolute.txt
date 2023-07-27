@@ -1,0 +1,15 @@
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\2-Estrutura_condicional\05_ExercicioLancheTotalAPagar\bin\Debug\net6.0\05_ExercicioLancheTotalAPagar.exe
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\2-Estrutura_condicional\05_ExercicioLancheTotalAPagar\bin\Debug\net6.0\05_ExercicioLancheTotalAPagar.deps.json
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\2-Estrutura_condicional\05_ExercicioLancheTotalAPagar\bin\Debug\net6.0\05_ExercicioLancheTotalAPagar.runtimeconfig.json
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\2-Estrutura_condicional\05_ExercicioLancheTotalAPagar\bin\Debug\net6.0\05_ExercicioLancheTotalAPagar.dll
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\2-Estrutura_condicional\05_ExercicioLancheTotalAPagar\bin\Debug\net6.0\05_ExercicioLancheTotalAPagar.pdb
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\2-Estrutura_condicional\05_ExercicioLancheTotalAPagar\obj\Debug\net6.0\05_ExercicioLancheTotalAPagar.csproj.AssemblyReference.cache
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\2-Estrutura_condicional\05_ExercicioLancheTotalAPagar\obj\Debug\net6.0\05_ExercicioLancheTotalAPagar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\2-Estrutura_condicional\05_ExercicioLancheTotalAPagar\obj\Debug\net6.0\05_ExercicioLancheTotalAPagar.AssemblyInfoInputs.cache
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\2-Estrutura_condicional\05_ExercicioLancheTotalAPagar\obj\Debug\net6.0\05_ExercicioLancheTotalAPagar.AssemblyInfo.cs
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\2-Estrutura_condicional\05_ExercicioLancheTotalAPagar\obj\Debug\net6.0\05_ExercicioLancheTotalAPagar.csproj.CoreCompileInputs.cache
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\2-Estrutura_condicional\05_ExercicioLancheTotalAPagar\obj\Debug\net6.0\05_ExercicioLancheTotalAPagar.dll
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\2-Estrutura_condicional\05_ExercicioLancheTotalAPagar\obj\Debug\net6.0\refint\05_ExercicioLancheTotalAPagar.dll
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\2-Estrutura_condicional\05_ExercicioLancheTotalAPagar\obj\Debug\net6.0\05_ExercicioLancheTotalAPagar.pdb
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\2-Estrutura_condicional\05_ExercicioLancheTotalAPagar\obj\Debug\net6.0\05_ExercicioLancheTotalAPagar.genruntimeconfig.cache
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\2-Estrutura_condicional\05_ExercicioLancheTotalAPagar\obj\Debug\net6.0\ref\05_ExercicioLancheTotalAPagar.dll

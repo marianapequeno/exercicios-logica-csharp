@@ -1,0 +1,15 @@
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\2-Estrutura_condicional\04_ExercicioDuracaoJogo\bin\Debug\net6.0\04_ExercicioDuracaoJogo.exe
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\2-Estrutura_condicional\04_ExercicioDuracaoJogo\bin\Debug\net6.0\04_ExercicioDuracaoJogo.deps.json
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\2-Estrutura_condicional\04_ExercicioDuracaoJogo\bin\Debug\net6.0\04_ExercicioDuracaoJogo.runtimeconfig.json
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\2-Estrutura_condicional\04_ExercicioDuracaoJogo\bin\Debug\net6.0\04_ExercicioDuracaoJogo.dll
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\2-Estrutura_condicional\04_ExercicioDuracaoJogo\bin\Debug\net6.0\04_ExercicioDuracaoJogo.pdb
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\2-Estrutura_condicional\04_ExercicioDuracaoJogo\obj\Debug\net6.0\04_ExercicioDuracaoJogo.csproj.AssemblyReference.cache
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\2-Estrutura_condicional\04_ExercicioDuracaoJogo\obj\Debug\net6.0\04_ExercicioDuracaoJogo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\2-Estrutura_condicional\04_ExercicioDuracaoJogo\obj\Debug\net6.0\04_ExercicioDuracaoJogo.AssemblyInfoInputs.cache
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\2-Estrutura_condicional\04_ExercicioDuracaoJogo\obj\Debug\net6.0\04_ExercicioDuracaoJogo.AssemblyInfo.cs
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\2-Estrutura_condicional\04_ExercicioDuracaoJogo\obj\Debug\net6.0\04_ExercicioDuracaoJogo.csproj.CoreCompileInputs.cache
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\2-Estrutura_condicional\04_ExercicioDuracaoJogo\obj\Debug\net6.0\04_ExercicioDuracaoJogo.dll
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\2-Estrutura_condicional\04_ExercicioDuracaoJogo\obj\Debug\net6.0\refint\04_ExercicioDuracaoJogo.dll
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\2-Estrutura_condicional\04_ExercicioDuracaoJogo\obj\Debug\net6.0\04_ExercicioDuracaoJogo.pdb
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\2-Estrutura_condicional\04_ExercicioDuracaoJogo\obj\Debug\net6.0\04_ExercicioDuracaoJogo.genruntimeconfig.cache
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\2-Estrutura_condicional\04_ExercicioDuracaoJogo\obj\Debug\net6.0\ref\04_ExercicioDuracaoJogo.dll

@@ -1,0 +1,15 @@
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\2-Estrutura_condicional\02_ExercicioParOuImpar\bin\Debug\net6.0\02_ExercicioParOuImpar.exe
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\2-Estrutura_condicional\02_ExercicioParOuImpar\bin\Debug\net6.0\02_ExercicioParOuImpar.deps.json
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\2-Estrutura_condicional\02_ExercicioParOuImpar\bin\Debug\net6.0\02_ExercicioParOuImpar.runtimeconfig.json
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\2-Estrutura_condicional\02_ExercicioParOuImpar\bin\Debug\net6.0\02_ExercicioParOuImpar.dll
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\2-Estrutura_condicional\02_ExercicioParOuImpar\bin\Debug\net6.0\02_ExercicioParOuImpar.pdb
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\2-Estrutura_condicional\02_ExercicioParOuImpar\obj\Debug\net6.0\02_ExercicioParOuImpar.csproj.AssemblyReference.cache
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\2-Estrutura_condicional\02_ExercicioParOuImpar\obj\Debug\net6.0\02_ExercicioParOuImpar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\2-Estrutura_condicional\02_ExercicioParOuImpar\obj\Debug\net6.0\02_ExercicioParOuImpar.AssemblyInfoInputs.cache
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\2-Estrutura_condicional\02_ExercicioParOuImpar\obj\Debug\net6.0\02_ExercicioParOuImpar.AssemblyInfo.cs
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\2-Estrutura_condicional\02_ExercicioParOuImpar\obj\Debug\net6.0\02_ExercicioParOuImpar.csproj.CoreCompileInputs.cache
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\2-Estrutura_condicional\02_ExercicioParOuImpar\obj\Debug\net6.0\02_ExercicioParOuImpar.dll
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\2-Estrutura_condicional\02_ExercicioParOuImpar\obj\Debug\net6.0\refint\02_ExercicioParOuImpar.dll
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\2-Estrutura_condicional\02_ExercicioParOuImpar\obj\Debug\net6.0\02_ExercicioParOuImpar.pdb
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\2-Estrutura_condicional\02_ExercicioParOuImpar\obj\Debug\net6.0\02_ExercicioParOuImpar.genruntimeconfig.cache
+C:\Users\Mariana\Documents\Exercicios_logica_csharp\2-Estrutura_condicional\02_ExercicioParOuImpar\obj\Debug\net6.0\ref\02_ExercicioParOuImpar.dll
